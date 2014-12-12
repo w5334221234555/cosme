@@ -1,0 +1,53 @@
+{
+    "/index": {
+        "id": "no"
+    },
+    "/C/merchant/list": {
+        "id": "no"
+    },
+    "/hdBack/menu": {
+        "id": "no"
+    },
+    "/hdBack/menuB": {
+        "id": "no"
+    },
+    "/B/counter/main": {
+        "id": "no"
+    },
+    "/B/counter/mainList": {
+        "id": "no"
+    },
+    "/B/booking/bizHours": {
+        "id": "no"
+    },
+    "/B/booking/manual": {
+        "id": "no"
+    },
+    "/B/booking/preview": {
+        "id": "no"
+    },
+    "/B/booking/restDays": {
+        "id": "no"
+    },
+    "/B/booking/schedule": {
+        "id": "no"
+    },
+    "/B/booking/web": {
+        "id": "no"
+    },
+    "/B/booking/workHours": {
+        "id": "no"
+    },
+    "/B/porder/closing": {
+        "id": "no"
+    },
+    "/B/porder/info": {
+        "id": "no"
+    },
+    "/B/porder/list": {
+        "id": "no"
+    },
+    "/B/porder/payment": {
+        "id": "no"
+    }
+}
